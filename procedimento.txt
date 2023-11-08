@@ -1,0 +1,5 @@
+1) scaricare da git
+- tutto tramite yarn
+2) installare harhat
+-installare i pacchetti mancati come indicati dal compilatore
+4) installare bootstrap yarn add react-bootstrap bootstrap

@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\39351\\Desktop\\dacancellare3\\with-create-react-app\\contracts\\EtherWallet.sol": {
+      "lastModificationDate": 1695742360717,
+      "contentHash": "9878efea05d2af922a6362d421b5193a",
+      "sourceName": "contracts/EtherWallet.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "EtherWallet"
+      ]
+    }
+  }
+}
